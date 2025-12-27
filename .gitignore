@@ -1,0 +1,30 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class file
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Android Studio
+.gradle/
+build/
+captures/
+*.iml
+*.iws
+*.idea
+local.properties
+
+# Log Files
+*.log
+
+# Android cache folders
+.cache/
