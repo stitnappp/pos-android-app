@@ -1,3 +1,4 @@
+cat > ~/pos-android-app/gradlew << 'EOF'
 #!/bin/sh
 
 #
@@ -176,3 +177,4 @@ exec "$JAVACMD" \
     -classpath "$CLASSPATH" \
     org.gradle.wrapper.GradleWrapperMain \
     "$@"
+EOF
